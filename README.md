@@ -36,3 +36,20 @@ Therefore different substrates yield different computational capabilities. Quant
 
 The universe is ultimately a closed quantum system for the following reason:
 Because quantum mechanics is mathematical, any quantum system is a mathematical system. When two mathematical systems are combined so that they interact, the result is a single combined mathematical system rather than two separate ones. Therefore any collection of quantum systems forms one mathematical system. The universe, as the totality of such systems, is therefore a single closed quantum system.
+
+
+
+The mathematical operations used in quantum computing are instantiated in reality naturally.
+
+Unitary evolution occurs in any closed or isolated quantum system. Because the universe is such a system, it carries out unitary evolution. I will not list every mathematical operation, but I will show that the operations sufficient for Peano arithmetic strength are present.
+
+The mapping is:
+
+- Creation operator → successor  
+- Annihilation operator → predecessor  
+- Superposition → addition  
+- Tensor products → multiplication  
+- Vacuum state → zero  
+- Unitary evolution → induction / iteration  
+
+These processes occur in the universe because it is an isolated quantum system. Their mechanical behaviour is the same as the corresponding operations in quantum computing, and they occur naturally in reality. They are effective procedures. Therefore these effective methods of quantum mechanics are the mathematics, and they are instantiated in reality because they occur naturally.
