@@ -31,3 +31,8 @@ If the difference were only a matter of efficiency, it should still be possible 
 But we know that past roughly 300 qubits, a classical simulation would require more atoms and energy than exist in the observable universe. That is a hard resource limit, not a practical inconvenience. Engineering a machine on that scale would also be impossible: the mass and gravity of such a structure would collapse it, and even if one appealed to the unobservable universe, the scale required would still exhaust available resources long before the computation finished.
 
 Therefore different substrates yield different computational capabilities. Quantum mechanics is computational because its substrate produces results that are physically unreachable by any classical substrate under the resource limits of the universe
+
+
+
+The universe is ultimately a closed quantum system for the following reason:
+Because quantum mechanics is mathematical, any quantum system is a mathematical system. When two mathematical systems are combined so that they interact, the result is a single combined mathematical system rather than two separate ones. Therefore any collection of quantum systems forms one mathematical system. The universe, as the totality of such systems, is therefore a single closed quantum system.
