@@ -23,3 +23,11 @@ An effective method must meet four conditions:
    The processes proceed mechanically according to the physical laws that govern them.
 
 These four conditions are met. Section 1.2 of the SEP entry notes that an effective method is thereby formalized as a mathematical object. Therefore the foundational structure of quantum mechanics is mathematical.
+
+
+**Substrate dependence is true** because:
+If the difference were only a matter of efficiency, it should still be possible for classical computers to perform the same computations as quantum computers, given enough resources.
+
+But we know that past roughly 300 qubits, a classical simulation would require more atoms and energy than exist in the observable universe. That is a hard resource limit, not a practical inconvenience. Engineering a machine on that scale would also be impossible: the mass and gravity of such a structure would collapse it, and even if one appealed to the unobservable universe, the scale required would still exhaust available resources long before the computation finished.
+
+Therefore different substrates yield different computational capabilities. Quantum mechanics is computational because its substrate produces results that are physically unreachable by any classical substrate under the resource limits of the universe
