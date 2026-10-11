@@ -11,7 +11,7 @@ QM is mathematics because it satisfies the criteria for an effective method give
 An effective method must meet four conditions:
 
 1. It is set out in a finite number of exact instructions, each expressed by a finite number of symbols.  
-   Turing described computing as normally done by writing certain symbols on paper, with each square of the tape capable of bearing a symbol—the mark that is printed, scanned, or erased. Quantum-state symbols (such as \(|\psi\rangle\)) are written marks of that kind; they stand for the physical states. The mathematical description of those states and the transitions between them supplies the finite symbolic instructions. The criteria do not further restrict what may count as a symbol or an instruction.
+   Turing described computing as normally done by writing certain symbols on paper, with each square of the tape capable of bearing a symbol—the mark that is printed, scanned, or erased. Quantum-state symbols (such as |ψ> are written marks of that kind; they stand for the physical states. The mathematical description of those states and the transitions between them supplies the finite symbolic instructions. The criteria do not further restrict what may count as a symbol or an instruction.
 
 2. It produces the result in a finite number of steps.  
    Quantum processes involve a finite number of steps. Zero and one are finite numbers, so any finite occupation or circuit depth meets the condition.
