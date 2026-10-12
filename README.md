@@ -72,3 +72,22 @@ QTM uses exactly these, and they occur as physical things in reality:
 - **Production rules (R):** the physical unitary evolution operator applied step by step, which transforms one physical configuration into the next according to the fixed transition function.
 
 These primitives occur naturally in the closed quantum system. Because they match Post’s definition of a formal system and, by P1, the underlying QM is mathematical (instantiates what it is the effective method of), reality is a formal system.
+
+
+**Premise 3**
+
+The universe meets the requirements of Gödel’s incompleteness theorems and is therefore a Gödelian system. Both the first and second incompleteness theorems apply to it.
+
+From Premises 1 and 2 the closed quantum system is a formal system that instantiates the mathematical operations sufficient for Peano-arithmetic strength: creation operators function as successor, annihilation operators as predecessor, superposition as addition, tensor products as multiplication, the vacuum state as zero, and unitary evolution as induction/iteration. These are the operations themselves, not the axioms of Peano arithmetic. Peano-arithmetic strength is strictly stronger than both Robinson’s Q and Primitive Recursive Arithmetic. Robinson’s Q is already sufficient for the first incompleteness theorem, and Primitive Recursive Arithmetic is already sufficient for the second incompleteness theorem, so the strength supplied by these operations is more than enough for both.
+
+Because the system has at least this strength it can represent a provability predicate. The same strength also lets the system prove the Hilbert–Bernays–Löb conditions on that predicate:
+
+- D1: If the system proves A, then it proves Prov(⌜A⌝).  
+- D2: It proves Prov(⌜A⌝) → Prov(⌜Prov(⌜A⌝)⌝).  
+- D3: It proves Prov(⌜A → B⌝) → (Prov(⌜A⌝) → Prov(⌜B⌝)).
+
+Its axioms are recursively enumerable: the physical laws together with an initial state form a recursively enumerable set. It is consistent because it is a mathematical system that uses standard classical mathematics. In classical logic the principle of explosion holds, so a contradiction would make every sentence true; standard mathematics does not collapse in this way, and therefore the system contains no contradictions.
+
+Gödel numbering is already available inside any arithmetic of this strength; Gödel showed that the numbering can be carried out within the arithmetic itself, so no separate construction is required. Gödel also proved that any formal system that is consistent, has recursively enumerable axioms, and contains at least the strength of Robinson’s Q is incomplete in the first sense, and that any such system containing at least the strength of Primitive Recursive Arithmetic (and satisfying the conditions above) is incomplete in the second sense.
+
+The universe satisfies every one of those conditions. Reality in fact has more than Peano-arithmetic strength, but only the minimum is required here. It is enough to show that the system reaches the strength of Peano arithmetic through the mathematical operations listed above, because that already places it above the threshold for both G1 (via Robinson’s Q) and G2 (via Primitive Recursive Arithmetic and the conditions). Therefore the universe is G1 and G2 incomplete.
