@@ -1,6 +1,10 @@
 # Syntactic Reality: The Gödelian Formal System of the Universe
 
-I use Lean 4 as the object language for inference locking, and an English argument from facts (or things science treats as true, plus other empirical material) as the metalanguage.(Tarski)
+Lean 4 is the object language. It is used only to lock the inferences.
+The English argument is the metalanguage. It takes facts, or what science treats as true, plus other empirical material, and draws logical deductions from them to establish the premises. Those English deductions are the content of the argument. Once the premises are stated, each one is declared as an axiom in Lean. The conclusion is then written as a theorem that simply collects the axioms. Lean checks, by formal syntactic rules alone, that the conclusion follows from those axioms with no missing steps.
+
+This is Tarski’s distinction. The metalanguage (English) supplies the content and performs the reasoning from the given facts and empirical material. The object language (Lean) does not interpret quantum mechanics or Gödel’s theorems; it only verifies that the logical skeleton connecting the stated premises to the conclusion is valid. If the English premises hold, the conclusion cannot be denied without denying one of the premises. That is the inference lock
+
 
 ## Premise 1
 
