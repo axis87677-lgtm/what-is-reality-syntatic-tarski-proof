@@ -1,6 +1,6 @@
-# What Is Reality: Syntactic Tarski Proof
+# Syntactic Reality: The Gödelian Formal System of the Universe
 
-I use Lean 4 as the object language for inference locking, and an English argument from facts (or things science treats as true, plus other empirical material) as the metalanguage.
+I use Lean 4 as the object language for inference locking, and an English argument from facts (or things science treats as true, plus other empirical material) as the metalanguage.(Tarski)
 
 ## Premise 1
 
