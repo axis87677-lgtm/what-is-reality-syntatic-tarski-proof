@@ -77,7 +77,7 @@ QTM uses exactly these, and they occur as physical things in reality:
 These primitives occur naturally in the closed quantum system. Because they match Post’s definition of a formal system and, by P1, the underlying QM is mathematical (instantiates what it is the effective method of), reality is a formal system.
 
 
-**Premise 3**
+#Premise 3
 
 The universe meets the requirements of Gödel’s incompleteness theorems and is therefore a Gödelian system. Both the first and second incompleteness theorems apply to it.
 
