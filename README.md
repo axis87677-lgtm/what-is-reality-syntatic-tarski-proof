@@ -6,6 +6,10 @@ The English argument is the metalanguage. It takes facts, or what science treats
 This is Tarski’s distinction. The metalanguage (English) supplies the content and performs the reasoning from the given facts and empirical material. The object language (Lean) does not interpret quantum mechanics or Gödel’s theorems; it only verifies that the logical skeleton connecting the stated premises to the conclusion is valid. If the English premises hold, the conclusion cannot be denied without denying one of the premises. That is the inference lock
 
 
+# On the role of Lean 4 in this document
+
+Lean 4 appears here only as an uninterpreted object language in Tarski's sense. It is a syntactic register: a place to write down each premise and the conclusion as tokens so the argument's shape is visible. It is not a Lean proof. No derivation is claimed in Lean, and none is needed, because the reasoning is done entirely in the metalanguage (English), which assigns meaning to the object-language tokens. English derives the premises from facts and empirical material and draws the conclusion. Lean records the result. Evaluating the Lean block as a formal proof, or expecting it to derive the conclusion, misreads its role. The proof is the English. The Lean is the notation.
+
 ## Premise 1
 
 QM is mathematics because it satisfies the criteria for an effective method given in the Stanford Encyclopedia of Philosophy entry on the Church-Turing Thesis.
