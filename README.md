@@ -86,7 +86,9 @@ Because the system has at least this strength it can represent a provability pre
 - D2: It proves Prov(⌜A⌝) → Prov(⌜Prov(⌜A⌝)⌝).  
 - D3: It proves Prov(⌜A → B⌝) → (Prov(⌜A⌝) → Prov(⌜B⌝)).
 
-Its axioms are recursively enumerable: the physical laws together with an initial state form a recursively enumerable set. It is consistent because it is a mathematical system that uses standard classical mathematics. In classical logic the principle of explosion holds, so a contradiction would make every sentence true; standard mathematics does not collapse in this way, and therefore the system contains no contradictions.
+Its axioms are recursively enumerable: the physical laws together with an initial state form a recursively enumerable set.
+
+It is consistent. Reality is a mathematical system that uses standard classical mathematics, and standard classical mathematics obeys the principle of explosion. The principle of explosion says that if a system proves both a sentence A and its negation ¬A, then it proves every sentence B. The short derivation is: from A you may prove A ∨ B; from A ∨ B and ¬A you may prove B. One contradiction therefore makes the system prove everything. Standard mathematics does not collapse in this way—it does not prove every sentence, and it does not prove both a theorem and its negation. Therefore no contradiction is present. A sentence and its negation cannot both be true inside the system.
 
 Gödel numbering is already available inside any arithmetic of this strength; Gödel showed that the numbering can be carried out within the arithmetic itself, so no separate construction is required. Gödel also proved that any formal system that is consistent, has recursively enumerable axioms, and contains at least the strength of Robinson’s Q is incomplete in the first sense, and that any such system containing at least the strength of Primitive Recursive Arithmetic (and satisfying the conditions above) is incomplete in the second sense.
 
