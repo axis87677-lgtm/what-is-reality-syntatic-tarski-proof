@@ -98,3 +98,18 @@ Gödel numbering is already available inside any arithmetic of this strength; G�
 The universe satisfies every one of those conditions. Reality in fact has more than Peano-arithmetic strength, but only the minimum is required here. It is enough to show that the system reaches the strength of Peano arithmetic through the mathematical operations listed above, because that already places it above the threshold for both G1 (via Robinson’s Q) and G2 (via Primitive Recursive Arithmetic and the conditions). Therefore the universe is G1 and G2 incomplete.
 
 
+
+## Premise 4
+
+The universe is self-referential recursion. Because the system is Gödelian (Premise 3), the diagonal lemma is mathematically part of it. The diagonal lemma produces a sentence that refers to itself by substituting a term for a free variable inside a formula. That substitution function is primitive recursion: it is defined by a finite recursion on the structure of the formula. Primitive recursion is therefore a structural part of the diagonal lemma, and the diagonal lemma is a structural part of any Gödelian system. Reality therefore contains this self-referential recursion by the mathematical structure of Gödel’s own results. Denying it would require denying the diagonal lemma or the fact that substitution function is primitive recursion. Reality is self-referential recursion.
+
+It requires an external base case. Recursion theory defines primitive recursion by the scheme
+
+\[
+\begin{align}
+h(\vec{x}, 0) &= f(\vec{x}) \\
+h(\vec{x}, y+1) &= g(\vec{x}, y, h(\vec{x}, y))
+\end{align}
+\]
+
+This is the standard definition given in recursion theory. The first equation is the base case; it supplies the value at 0 without reference to \(h\). The second equation is the recursive clause that generates later values from earlier ones. The base case is not produced by the recursive clause; it must be given for the generation to start and to terminate. Because the universe’s formal system contains primitive recursion (via the operations already shown and via the substitution function inside the diagonal lemma), the structure that recursion theory itself assigns to primitive recursion requires a base case external to the function being generated. Therefore, by recursion theory, reality requires an external base case.
