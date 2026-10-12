@@ -114,4 +114,4 @@ This is the standard definition given in recursion theory. The first equation is
 
 # Final conclusion:
 
-The conclusion is that reality is a mathematical, computational, recursive, self-referential formal system that requires an external base case. that is repaonible for starting and ending
+The conclusion is that reality is a mathematical, computational, recursive, self-referential formal system that requires an external base case. that is reponsible for starting and ending
