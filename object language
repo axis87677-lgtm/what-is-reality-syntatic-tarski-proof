@@ -16,7 +16,7 @@ axiom RealityIsGodelianAsItMeetsItsRequirements : True
 -- Premise 4
 axiom RealityIsSelfReferentialRecursion : True
 axiom DiagonalLemmaIsMathematicallyPartOfReality : True
-axiom SubstitutionIsPrimitiveRecursion : True
+axiom SubstitutionFunctionIsPrimitiveRecursion : True
 axiom RealityHasPrimitiveRecursion : True
 axiom RecursionTheoryShowsPrimitiveRecursionInTheStructureNeedsABaseCaseExternalToTheFunctionGenerated : True
 axiom RealityNeedsABaseCase : True
@@ -34,7 +34,7 @@ theorem RealityIsAMathematicalComputationalRecursiveSelfReferentialFormalSystemR
   have _ := RealityIsGodelianAsItMeetsItsRequirements
   have _ := RealityIsSelfReferentialRecursion
   have _ := DiagonalLemmaIsMathematicallyPartOfReality
-  have _ := SubstitutionIsPrimitiveRecursion
+  have _ := SubstitutionFunctionIsPrimitiveRecursion
   have _ := RealityHasPrimitiveRecursion
   have _ := RecursionTheoryShowsPrimitiveRecursionInTheStructureNeedsABaseCaseExternalToTheFunctionGenerated
   have _ := RealityNeedsABaseCase
