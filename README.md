@@ -110,4 +110,8 @@ h(x, 0) = f(x)
 h(x, y+1) = g(x, y, h(x, y))
 
 
-This is the standard definition given in recursion theory. The first equation is the base case; it supplies the value at 0 without reference to \(h\). The second equation is the recursive clause that generates later values from earlier ones. The base case is not produced by the recursive clause; it must be given for the generation to start and to terminate. Because the universe’s formal system contains primitive recursion (via the operations already shown and via the substitution function inside the diagonal lemma), the structure that recursion theory itself assigns to primitive recursion requires a base case external to the function being generated. Therefore, by recursion theory, reality requires an external base case.
+This is the standard definition given in recursion theory. The first equation is the base case; it supplies the value at 0 without reference to \(h\). The second equation is the recursive clause that generates later values from earlier ones. The base case is not produced by the recursive clause; it must be given for the generation to start and to terminate. Because the universe’s formal system contains primitive recursion (via the operations already shown and via the substitution function inside the diagonal lemma), the structure that recursion theory itself assigns to primitive recursion requires a base case external to the function being generated. Therefore, by recursion theory, reality requires an external base case. which is repsoinble for starting and ensing reality(as thats how a base case functions in primitve recursion)
+
+#Final conclusion:
+
+The conclusion is that reality is a mathematical, computational, recursive, self-referential formal system that requires an external base case. that is repaonible for starting and ending
