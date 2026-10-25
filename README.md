@@ -69,18 +69,16 @@ Because the four conditions are satisfied by the dynamics of quantum systems, th
 ## Premise 2
 
 QTM instantiates the primitives of QM and maps them. Because of P1, QM is math, so QTM instantiates that math. Therefore reality itself is a formal system. To deny this you would have to deny P1 or deny that QTM is a formal system.
+​The Pure Physical Realization of (A, I, R)
+​By stripping away any lingering classical "tape/symbol" idealization:
 
-A formal system, in Post’s original combinatorial definition (1943), is a triplet (A, I, R) where:
 
-- A is a finite alphabet
-- I is a finite set of initial strings on that alphabet
-- R is a finite set of production rules that transform strings into other strings
+​Alphabet (A): The actual, physical basis states of the quantum system (e.g., spin states, polarization states, discrete energy levels). No abstract symbols required—the physical matter/energy configurations are the alphabet. as the tapes used in QTM are idealising the physical of that quantum object.
 
-QTM uses exactly these, and they occur as physical things in reality:
 
-- **Alphabet (A):** the finite set of basis states and tape symbols (e.g. |0⟩, |1⟩, blank), which are physical quantum states of the system.
-- **Initial strings (I):** the initial configurations of the quantum system (the starting physical state of the tape, head, and internal state).
-- **Production rules (R):** the physical unitary evolution operator applied step by step, which transforms one physical configuration into the next according to the fixed transition function.
+​Initial Strings (I): The concrete initial state vector of the closed quabtum system system. (universe)
+
+​Production Rules (R): The physical Hamiltonian and resulting unitary evolution operator (U(t) = e^{-iHt/\hbar}), which physically drives the state transitions mechanically, natively, and without human intervention.
 
 These primitives occur naturally in the closed quantum system. Because they match Post’s definition of a formal system and, by P1, the underlying QM is mathematical (instantiates what it is the effective method of), reality is a formal system.
 
