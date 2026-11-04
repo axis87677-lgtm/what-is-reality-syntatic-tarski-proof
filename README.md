@@ -13,26 +13,28 @@ Lean 4 appears here only as an uninterpreted object language in Tarski's sense. 
 ## Premise 1
 
 Naturally occurring quantum processes in quantum mechanics itself satisfy the four conditions for an effective method given in the Stanford Encyclopedia of Philosophy entry on the Church-Turing Thesis (section 1.2).
+
 An effective method must meet four conditions:
 
-It is set out in a finite number of exact instructions, each expressed by a finite number of symbols
+1. It is set out in a finite number of exact instructions, each expressed by a finite number of symbols.  
+   The physical configurations of a quantum system (an electron’s spin pointing up or down, a photon’s polarization, an atom sitting at a low energy level or a high energy level, the vacuum) are finite in number for any given system. The transitions between them are fixed by the physical laws. These configurations and transitions are the instructions. Zero is a finite number, so the vacuum or ground configuration is a finite instruction.
 
-It produces the result in a finite number of steps.
+2. It produces the result in a finite number of steps.  
+   A naturally occurring quantum process (superposition of a finite number of physical configurations, unitary evolution of a finite system, creation or annihilation of a particle) takes a finite number of steps. Superposition of zero additional configurations is the zero case; zero is finite. Any finite occupation or finite evolution meets the condition. Unitary evolution of an infinite system is infinite iteration of a finite rule. Infinite iteration of a finite rule is still an effective method; each step remains finite and mechanical.
 
-It can, in principle, be carried out by a human with paper and pencil.
+3. It can, in principle, be carried out by a human with paper and pencil.  
+   The physical configurations and the transitions between them can be idealized by mathematical symbols and calculated by hand, just as Turing did in his 1936 paper. Turing’s tape machine was itself an idealization of physical markings: “The machine is supplied with a ‘tape’ (the analogue of paper) running through it, and divided into sections (called ‘squares’) each capable of bearing a ‘symbol’. At any moment there is just one square which is ‘in the machine’.” The criteria do not require the human to physically enact the process; they require that the method of obtaining the successive values can be carried out with paper and pencil.
 
-It requires no insight, intuition, or ingenuity.
+4. It requires no insight, intuition, or ingenuity.  
+   Once the physical laws are given, the process proceeds mechanically. No further insight is required at each step.
 
 These four conditions are met by the naturally occurring quantum processes in quantum mechanics.
 
-
-Section 1.2 states that the Church-Turing thesis licenses the following replacement: the informal claim “there is an effective method for obtaining the values of function f” may be replaced by the formal claim “f is a member of S” (the set of Turing-computable functions) once the method that obtains those values satisfies the four conditions.
-
+Section 1.2 states that the Church-Turing thesis licenses the following replacement: the informal claim “there is an effective method for obtaining the values of function \(f\)” may be replaced by the formal claim “\(f\) is a member of \(S\)” (the set of Turing-computable functions) once the method that obtains those values satisfies the four conditions.
 
 Here the effective method is the naturally occurring quantum process itself. The function \(f\) whose values that method obtains is the mapping from one quantum configuration to the next under the physical transitions. Because the naturally occurring quantum processes are the methods that produce those successive values, the thesis licenses the claim that those functions \(f\) are members of \(S\).
 
-
-Therefore the naturally occurring quantum processes that meet the conditions are the effective methods that compute the mathematical functions in \(S\). The foundational structure of quantum mechanics is mathematical..
+Therefore the naturally occurring quantum processes that meet the conditions are the effective methods that compute the mathematical functions in \(S\). The foundational structure of quantum mechanics is mathematical.
 
 These four conditions are met. Section 1.2 of the SEP entry notes that an effective method is thereby formalized as a mathematical object. Therefore the foundational structure of quantum mechanics is mathematical.
 
