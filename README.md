@@ -14,13 +14,24 @@ Lean 4 appears here only as an uninterpreted object language in Tarski's sense. 
 
 Naturally occurring quantum processes in quantum mechanics itself satisfy the four conditions for an effective method given in the Stanford Encyclopedia of Philosophy entry on the Church-Turing Thesis (section 1.2).
 An effective method must meet four conditions:
-It is set out in a finite number of exact instructions, each expressed by a finite number of symbols.
+
+It is set out in a finite number of exact instructions, each expressed by a finite number of symbols
+
 It produces the result in a finite number of steps.
+
 It can, in principle, be carried out by a human with paper and pencil.
+
 It requires no insight, intuition, or ingenuity.
+
 These four conditions are met by the naturally occurring quantum processes in quantum mechanics.
-Section 1.2 states that the Church-Turing thesis licenses the following replacement: the informal claim “there is an effective method for obtaining the values of function \(f\)” may be replaced by the formal claim “\(f\) is a member of \(S\)” (the set of Turing-computable functions) once the method that obtains those values satisfies the four conditions.
+
+
+Section 1.2 states that the Church-Turing thesis licenses the following replacement: the informal claim “there is an effective method for obtaining the values of function f” may be replaced by the formal claim “f is a member of S” (the set of Turing-computable functions) once the method that obtains those values satisfies the four conditions.
+
+
 Here the effective method is the naturally occurring quantum process itself. The function \(f\) whose values that method obtains is the mapping from one quantum configuration to the next under the physical transitions. Because the naturally occurring quantum processes are the methods that produce those successive values, the thesis licenses the claim that those functions \(f\) are members of \(S\).
+
+
 Therefore the naturally occurring quantum processes that meet the conditions are the effective methods that compute the mathematical functions in \(S\). The foundational structure of quantum mechanics is mathematical..
 
 These four conditions are met. Section 1.2 of the SEP entry notes that an effective method is thereby formalized as a mathematical object. Therefore the foundational structure of quantum mechanics is mathematical.
