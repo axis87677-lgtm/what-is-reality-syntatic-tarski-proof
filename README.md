@@ -18,9 +18,16 @@ An effective method must meet four conditions:
 
 1. **It is set out in a finite number of exact instructions, each expressed by a finite number of symbols.**
 
-   The physical configurations of a quantum system (an electron's spin pointing up or down, a photon's polarization, an atom sitting at a low energy level or a high energy level, the vacuum) are discrete: each configuration is a separate finite configuration. A system with infinitely many levels is a series of separate finite configurations, not one infinite configuration. Each level is its own finite computation. The series is like 100 people — each person is one person; the series is 100 people, not one person. The predicate applies to each computation; the series is a collection of finite computations.
+   
+   The physical configurations of a quantum system (an electron’s spin pointing up or down, a photon’s polarization, an atom sitting at a low energy level or a high energy level, the vacuum) are discrete: each configuration is a separate, finite physical state.
 
-   The transitions between them are fixed by the physical laws. These configurations and transitions are the instructions. Zero is a finite number, so the vacuum or ground configuration is a finite instruction. Each iteration is one finite computation.
+A continuous amplitude is not an infinite string of decimal symbols; it is one single physical configuration—one magnitude, one fact about the system. The mathematical description of that amplitude is a human tool, but physically, it is a single, finite state.
+
+The transitions between these states are fixed by the physical laws. These configurations and the fixed laws that transition them are the instructions. Zero is a finite number, so the vacuum or ground configuration (
+∣
+0
+⟩
+∣0⟩) is a finite instruction. The entire physical system acts mechanically.
 
 2. **It produces the result in a finite number of steps.**
 
