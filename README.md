@@ -31,9 +31,12 @@ The transitions between these states are fixed by the physical laws. These confi
 
 2. **It produces the result in a finite number of steps.**
 
-   A naturally occurring quantum process (superposition of a finite number of physical configurations, unitary evolution of a finite system, creation or annihilation of a particle) takes a finite number of steps. Superposition of zero additional configurations is the zero case; zero is finite. Any finite occupation or finite evolution meets the condition. Unitary evolution of an infinite system is just the repeated application of a finite rule. The rule itself is finite. The computation is the repeated application of that finite rule, even if the number of applications is infinite. Infinite iteration of a finite rule is still an effective method; each step remains finite and mechanical.
+   A naturally occurring quantum process takes a finite number of steps. In quantum information theory, any physical evolution can be modeled as a quantum circuit: a finite sequence of discrete unitary gates. Each gate is one step. The physical state transitions from its initial configuration through a finite sequence of operations until it reaches a measurement event. That measurement is the halting state. It yields a definite, finite outcome.
 
-   A distribution is a result. When a superposition acts, it produces a result in a state. When vacuum fluctuations act, they produce a result — a distribution. The condition says only that a result is produced; it does not require determinism. A distribution is what the process yields, and that is a result.
+Even if the underlying field is continuous, the physical configurations are discrete states, and the evolution between them is a finite sequence of physical interactions. Zero is a finite number; the zero case (no additional configurations in superposition) is finite. Any finite occupation or finite sequence of interactions meets the condition. The rule itself is finite, and the physical process applies that finite rule a finite number of times before a definite physical configuration is reached.
+
+A distribution is a result. When a superposition acts and interacts with a measurement apparatus, it yields a physical outcome. Even if the underlying theory is probabilistic, the physical process produces a definite measurement record—a collapsed state, a macroscopic fact. The condition says only that a result is produced in a finite number of steps; it does not require determinism. A probability distribution is a mathematical description of the ensemble, but any single physical computation yields a definite physical result in finite time. Therefore, the process halts and produces a result.
+
 
 3. **It can, in principle, be carried out by a human with paper and pencil.**
 
