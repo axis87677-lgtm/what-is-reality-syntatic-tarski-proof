@@ -121,7 +121,7 @@ QTM instantiates the primitives of QM and maps them. Because of P1, QM is math, 
 
 By stripping away any lingering classical "tape/symbol" idealization:
 
-- **Alphabet (A):** The actual, physical basis states of the quantum system {QTM uses those which are just quantum states} (e.g., spin states, polarization states, discrete energy levels). No abstract symbols required — the physical matter/energy configurations are the alphabet, just as the tapes used in QTM are idealising the physical of that quantum object. So quantum states are the symbol as shown in P1 for CTT predicate.
+- **Alphabet (A):** The actual, physical basis states of the quantum system {QTM uses those which are just quantum states} (e.g., spin states, polarization states, discrete energy levels etc). No abstract symbols required — the physical matter/energy configurations are the alphabet, just as the tapes used in QTM are idealising the physical of that quantum object. So quantum states are the symbol as shown in P1 for CTT predicate.
 - **Initial Strings (I):** The concrete initial state vector of the closed quantum system (the universe).
 - **Production Rules (R):** The physical Hamiltonian and resulting unitary evolution operator (`U(t) = e^{-iHt/ℏ}`), which physically drives the state transitions mechanically, natively, and without human intervention.
 
