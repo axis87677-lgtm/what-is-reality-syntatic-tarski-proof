@@ -31,9 +31,9 @@ The transitions between these states are fixed by the physical laws. These confi
 
 
 
-(# PSA for P1 — Symbols Can Be Physical:
+# PSA for P1 — Symbols Can Be Physical:
 
-To argue that a symbol cannot be physical within a Church–Turing framework, you would have to argue against Turing’s own 1936 paper, On Computable Numbers, with an Application to the Entscheidungsproblem. Turing explicitly defines his machine in physical terms:
+**(To argue that a symbol cannot be physical within a Church–Turing framework, you would have to argue against Turing’s own 1936 paper, On Computable Numbers, with an Application to the Entscheidungsproblem. Turing explicitly defines his machine in physical terms:
 
 “The machine is supplied with a ‘tape’ (the analogue of paper) running through it, and divided into sections (called ‘squares’) each capable of bearing a ‘symbol’.”
 
@@ -44,7 +44,7 @@ So the Church–Turing thesis is not committed to symbols being abstract. It is 
 This matters for P1 because reality is a machine in exactly this sense: each QM process is a procedure that yields a result. The physical configuration is the symbol; the dynamical law is the instruction; the evolution is the mechanical procedure. To deny that a physical configuration can be a symbol, you would have to deny Turing’s own formulation of his machine — which is the very foundation of the Church–Turing thesis being invoked.
 
 
-same for finite number of steps turings tape machine took finite amount of physical steps)
+same for finite number of steps turings tape machine took finite amount of physical steps)**
 
 
 
